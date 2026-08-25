@@ -1,0 +1,938 @@
+[
+  {
+    "model_trained_on": "arb",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 133.4806624944767,
+    "loss": 4.893956617119858,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ces",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 121.18961198514378,
+    "loss": 4.797356360268395,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ekk",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 116.52441144907469,
+    "loss": 4.758100791390651,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "eng",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 130.82408794139826,
+    "loss": 4.873853580641371,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "eng_fineweb",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 68.42829557973177,
+    "loss": 4.225786417153578,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "fao",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 140.38363421508225,
+    "loss": 4.944378919377792,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "fas",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 140.08096035111188,
+    "loss": 4.942220543687333,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "heb",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 150.51261662049606,
+    "loss": 5.0140469120407,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "hsb",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 162.9908596714097,
+    "loss": 5.093694123598942,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "hun",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 126.02437686106369,
+    "loss": 4.836475355390421,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ind",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 119.90623288586372,
+    "loss": 4.786710044717906,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "isl",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 120.99608548898021,
+    "loss": 4.795758193742683,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "jav",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 126.64738181452176,
+    "loss": 4.841406703628569,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "kan",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 146.00240861198816,
+    "loss": 4.983623118914641,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "kin",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 164.78167742572126,
+    "loss": 5.104621430625175,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "kmr",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 155.01897231883663,
+    "loss": 5.043547511485737,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "mlt",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 127.82529168173907,
+    "loss": 4.850664422846808,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "sme",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 154.8639554085115,
+    "loss": 5.042547024467025,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "swe",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 121.1542767160521,
+    "loss": 4.797064747638661,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "swh",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 140.99241674851027,
+    "loss": 4.94870610700641,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "tam",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 142.7210867295203,
+    "loss": 4.9608922832191915,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "tel",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 141.18851438151586,
+    "loss": 4.950095978843517,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ukr",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 130.48586031324183,
+    "loss": 4.871264870802352,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "urd",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 155.87920370636783,
+    "loss": 5.049081372081581,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "zsm",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 134.3306468032012,
+    "loss": 4.900304274094977,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "zul",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 119.38012722748189,
+    "loss": 4.782312748475251,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "arb",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 109.78823479476095,
+    "loss": 4.698553372102642,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ces",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 96.73257264646237,
+    "loss": 4.571950187999808,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ekk",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 96.09390484211193,
+    "loss": 4.565325888804661,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "eng",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 108.89297291013881,
+    "loss": 4.690365499942655,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "eng_fineweb",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 47.08344043341972,
+    "loss": 3.8519213560479537,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "fao",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 116.8947569814333,
+    "loss": 4.761274017013984,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "fas",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 114.01619918412905,
+    "loss": 4.736340536405911,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "heb",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 122.70327273018998,
+    "loss": 4.809769023978843,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "hsb",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 131.78874315402575,
+    "loss": 4.8812002098778375,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "hun",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 107.96588273905978,
+    "loss": 4.6818152766528645,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ind",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 97.62901119693984,
+    "loss": 4.581174695120531,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "isl",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 100.72086290532553,
+    "loss": 4.612352957067596,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "jav",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 102.61400202679997,
+    "loss": 4.6309743954213145,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "kan",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 118.65802502891574,
+    "loss": 4.776245616742177,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "kin",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 135.07118644452424,
+    "loss": 4.905801946457425,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "kmr",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 130.74930661532505,
+    "loss": 4.873281799797701,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "mlt",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 101.37157082739765,
+    "loss": 4.61879268525331,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "sme",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 130.17875786909792,
+    "loss": 4.86890856645713,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "swe",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 99.89301817106816,
+    "loss": 4.6040997950347196,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "swh",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 109.02316157906172,
+    "loss": 4.691560351207037,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "tam",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 119.38786837280914,
+    "loss": 4.782377590878526,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "tel",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 119.67683310426011,
+    "loss": 4.784795052514596,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ukr",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 106.58691816619684,
+    "loss": 4.668960785309953,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "urd",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 126.93931082373267,
+    "loss": 4.843709104713851,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "zsm",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 112.46479234236672,
+    "loss": 4.722640215706487,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "zul",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 99.40614149809815,
+    "loss": 4.599213897449023,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "arb",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 46.47045329112854,
+    "loss": 3.838816697538844,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ces",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 40.12544951666638,
+    "loss": 3.692010784295001,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ekk",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 41.97677327657719,
+    "loss": 3.737116448088591,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "eng",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 39.337632462157934,
+    "loss": 3.672181629710129,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "eng_fineweb",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 18.67057658371492,
+    "loss": 2.9269488399752603,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "fao",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 51.55859095074514,
+    "loss": 3.9427188493566985,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "fas",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 48.50571996440292,
+    "loss": 3.8816817283997374,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "heb",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 46.795611919915295,
+    "loss": 3.8457894361326606,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "hsb",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 79.3707930159473,
+    "loss": 4.374130454434341,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "hun",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 44.63001283869406,
+    "loss": 3.798406566310733,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ind",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 39.40257000590454,
+    "loss": 3.6738310427528544,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "isl",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 40.02447170459467,
+    "loss": 3.6894910596599955,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "jav",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 46.945413318788745,
+    "loss": 3.848985507991462,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "kan",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 48.96265827249046,
+    "loss": 3.8910579315114218,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "kin",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 63.499746460565596,
+    "loss": 4.1510359131436765,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "kmr",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 47.5264207432634,
+    "loss": 3.861285782578123,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "mlt",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 39.315887282259624,
+    "loss": 3.6716286937315994,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "sme",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 65.10499713671167,
+    "loss": 4.176001307201145,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "swe",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 38.21865202121205,
+    "loss": 3.6433236692527498,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "swh",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 42.841427128188656,
+    "loss": 3.7575055580076113,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "tam",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 46.79667043406117,
+    "loss": 3.8458120558213635,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "tel",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 46.316339478814996,
+    "loss": 3.8354948033460814,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ukr",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 47.93121411112279,
+    "loss": 3.8697669437733713,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "urd",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 48.49349495334333,
+    "loss": 3.881429664274586,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "zsm",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 44.14128658041764,
+    "loss": 3.7873955481250916,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "zul",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 40.873462653423225,
+    "loss": 3.710481017584683,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "arb",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 23.52607128258917,
+    "loss": 3.158109222483042,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ces",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 22.264110133837427,
+    "loss": 3.1029759709342,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ekk",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 22.333077277582095,
+    "loss": 3.1060688654742394,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "eng",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 18.842780463888186,
+    "loss": 2.936129841267843,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "eng_fineweb",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 11.625484995980372,
+    "loss": 2.4531996706874946,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "fao",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 34.726705010396905,
+    "loss": 3.5475089878064248,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "fas",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 24.838344881175235,
+    "loss": 3.212388623652698,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "heb",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 22.671080378463877,
+    "loss": 3.121090120131305,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "hsb",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 73.29623658142374,
+    "loss": 4.294509264892721,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "hun",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 23.058656637263176,
+    "loss": 3.138041258038345,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ind",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 21.605314748624338,
+    "loss": 3.0729393376010536,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "isl",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 22.009824387171953,
+    "loss": 3.0914889167319806,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "jav",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 24.676998965133738,
+    "loss": 3.205871593796476,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "kan",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 25.88795041139212,
+    "loss": 3.2537776253686888,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "kin",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 34.85761511355536,
+    "loss": 3.5512716244858136,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "kmr",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 25.138133592037896,
+    "loss": 3.2243859598348488,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "mlt",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 21.339890387283706,
+    "loss": 3.0605781093694926,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "sme",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 55.320128557036774,
+    "loss": 4.01313683067377,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "swe",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 20.96421052728294,
+    "loss": 3.0428167232136203,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "swh",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 22.620781710198763,
+    "loss": 3.1188690284550726,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "tam",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 25.186870131311142,
+    "loss": 3.2263228322006143,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "tel",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 24.508381765325446,
+    "loss": 3.1990151719138433,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "ukr",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 25.945607437185096,
+    "loss": 3.256002325040724,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "urd",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 25.080517757774413,
+    "loss": 3.222091359801009,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "zsm",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 22.470748537211943,
+    "loss": 3.112214398379895,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "zul",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 25.666531424068044,
+    "loss": 3.2451878639795377,
+    "num_samples": 3426
+  }
+]

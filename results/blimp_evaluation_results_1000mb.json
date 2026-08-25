@@ -1,0 +1,122 @@
+[
+  {
+    "language": "eng",
+    "overall_accuracy": 76.01,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "swe",
+    "overall_accuracy": 74.37,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "tam",
+    "overall_accuracy": 73.49,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "isl",
+    "overall_accuracy": 73.37,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "tel",
+    "overall_accuracy": 73.36,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "ces",
+    "overall_accuracy": 73.33,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "urd",
+    "overall_accuracy": 73.14,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "heb",
+    "overall_accuracy": 73.11,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "hun",
+    "overall_accuracy": 72.9,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "swh",
+    "overall_accuracy": 72.77,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "kmr",
+    "overall_accuracy": 72.68,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "ind",
+    "overall_accuracy": 72.48,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "zsm",
+    "overall_accuracy": 72.43,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "ekk",
+    "overall_accuracy": 72.31,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "kan",
+    "overall_accuracy": 72.28,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "mlt",
+    "overall_accuracy": 71.84,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "ukr",
+    "overall_accuracy": 71.48,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "fas",
+    "overall_accuracy": 71.26,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "arb",
+    "overall_accuracy": 70.89,
+    "size": "1000mb",
+    "by_paradigm": {}
+  },
+  {
+    "language": "jav",
+    "overall_accuracy": 68.95,
+    "size": "1000mb",
+    "by_paradigm": {}
+  }
+]

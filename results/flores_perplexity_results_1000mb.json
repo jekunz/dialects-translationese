@@ -1,0 +1,626 @@
+[
+  {
+    "language": "arb",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/arb_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 14.94,
+        "loss": 2.704,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 19.58,
+        "loss": 2.9746,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 13.53,
+        "loss": 2.6049,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 15.93,
+    "total_examples": 1012
+  },
+  {
+    "language": "ces",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/ces_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 14.39,
+        "loss": 2.6665,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 17.62,
+        "loss": 2.8692,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 13.71,
+        "loss": 2.6182,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 15.18,
+    "total_examples": 1012
+  },
+  {
+    "language": "ekk",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/ekk_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 14.24,
+        "loss": 2.656,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 17.69,
+        "loss": 2.8733,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 14.25,
+        "loss": 2.6566,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 15.33,
+    "total_examples": 1012
+  },
+  {
+    "language": "eng",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/eng_fineweb-edu_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 10.49,
+        "loss": 2.3501,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 14.84,
+        "loss": 2.6976,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 12.31,
+        "loss": 2.5108,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 12.48,
+    "total_examples": 1012
+  },
+  {
+    "language": "eng_fineweb",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/eng_fineweb_fineweb_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 12.53,
+        "loss": 2.5284,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 15.26,
+        "loss": 2.7253,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 10.89,
+        "loss": 2.3883,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 12.84,
+    "total_examples": 1012
+  },
+  {
+    "language": "fao",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/fao_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 19.46,
+        "loss": 2.9683,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 24.68,
+        "loss": 3.2059,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 19.44,
+        "loss": 2.9673,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 21.1,
+    "total_examples": 1012
+  },
+  {
+    "language": "fas",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/fas_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 14.97,
+        "loss": 2.7062,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 20.99,
+        "loss": 3.0438,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 14.42,
+        "loss": 2.6686,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 16.69,
+    "total_examples": 1012
+  },
+  {
+    "language": "heb",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/heb_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 14.49,
+        "loss": 2.6737,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 18.9,
+        "loss": 2.9393,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 14.61,
+        "loss": 2.6817,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 15.92,
+    "total_examples": 1012
+  },
+  {
+    "language": "hsb",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/hsb_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 26.89,
+        "loss": 3.2919,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 34.24,
+        "loss": 3.5333,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 27.59,
+        "loss": 3.3174,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 29.45,
+    "total_examples": 1012
+  },
+  {
+    "language": "hun",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/hun_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 14.41,
+        "loss": 2.6678,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 18.18,
+        "loss": 2.9002,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 13.66,
+        "loss": 2.6143,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 15.35,
+    "total_examples": 1012
+  },
+  {
+    "language": "ind",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/ind_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 14.46,
+        "loss": 2.6716,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 18.79,
+        "loss": 2.9332,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 13.63,
+        "loss": 2.6125,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 15.55,
+    "total_examples": 1012
+  },
+  {
+    "language": "isl",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/isl_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 14.67,
+        "loss": 2.6861,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 17.96,
+        "loss": 2.888,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 14.13,
+        "loss": 2.6483,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 15.53,
+    "total_examples": 1012
+  },
+  {
+    "language": "jav",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/jav_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 15.53,
+        "loss": 2.7429,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 19.08,
+        "loss": 2.9487,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 15.4,
+        "loss": 2.7346,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 16.61,
+    "total_examples": 1012
+  },
+  {
+    "language": "kan",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/kan_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 16.05,
+        "loss": 2.7758,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 21.49,
+        "loss": 3.0676,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 14.65,
+        "loss": 2.6843,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 17.3,
+    "total_examples": 1012
+  },
+  {
+    "language": "kin",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/kin_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 20.25,
+        "loss": 3.0081,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 27.97,
+        "loss": 3.3312,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 17.6,
+        "loss": 2.868,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 21.8,
+    "total_examples": 1012
+  },
+  {
+    "language": "kmr",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/kmr_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 15.08,
+        "loss": 2.7136,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 19.98,
+        "loss": 2.9949,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 14.87,
+        "loss": 2.6997,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 16.56,
+    "total_examples": 1012
+  },
+  {
+    "language": "mlt",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/mlt_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 14.37,
+        "loss": 2.665,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 16.87,
+        "loss": 2.8253,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 13.44,
+        "loss": 2.5981,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 14.85,
+    "total_examples": 1012
+  },
+  {
+    "language": "sme",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/sme_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 24.56,
+        "loss": 3.2012,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 31.43,
+        "loss": 3.4478,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 25.77,
+        "loss": 3.249,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 27.14,
+    "total_examples": 1012
+  },
+  {
+    "language": "swe",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/swe_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 14.4,
+        "loss": 2.6672,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 17.1,
+        "loss": 2.8391,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 14.21,
+        "loss": 2.654,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 15.19,
+    "total_examples": 1012
+  },
+  {
+    "language": "swh",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/swh_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 15.04,
+        "loss": 2.7104,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 18.71,
+        "loss": 2.9289,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 13.28,
+        "loss": 2.586,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 15.61,
+    "total_examples": 1012
+  },
+  {
+    "language": "tam",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/tam_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 15.9,
+        "loss": 2.7663,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 21.43,
+        "loss": 3.0647,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 14.09,
+        "loss": 2.6456,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 17.04,
+    "total_examples": 1012
+  },
+  {
+    "language": "tel",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/tel_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 15.86,
+        "loss": 2.7638,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 21.27,
+        "loss": 3.0573,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 14.65,
+        "loss": 2.6847,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 17.16,
+    "total_examples": 1012
+  },
+  {
+    "language": "ukr",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/ukr_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 15.61,
+        "loss": 2.7479,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 20.65,
+        "loss": 3.0278,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 15.22,
+        "loss": 2.7226,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 17.07,
+    "total_examples": 1012
+  },
+  {
+    "language": "urd",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/urd_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 15.41,
+        "loss": 2.7351,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 20.07,
+        "loss": 2.9993,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 13.28,
+        "loss": 2.5861,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 16.17,
+    "total_examples": 1012
+  },
+  {
+    "language": "zsm",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/zsm_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 15.35,
+        "loss": 2.7309,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 19.19,
+        "loss": 2.9544,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 14.01,
+        "loss": 2.64,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 16.11,
+    "total_examples": 1012
+  },
+  {
+    "language": "zul",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/zul_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 16.12,
+        "loss": 2.7799,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 20.09,
+        "loss": 3.0004,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 15.38,
+        "loss": 2.7332,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 17.13,
+    "total_examples": 1012
+  }
+]
