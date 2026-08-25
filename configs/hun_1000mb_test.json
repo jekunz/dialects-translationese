@@ -1,0 +1,14 @@
+{
+  "language": "hun",
+  "size": "1000mb",
+  "model_config": "gpt_base_config.json",
+  "tokenizer_path": "goldfish-models/eng_latn_1000mb/spiece.model",
+  "data_path": "finetranslations_models/tokenized_data/hun_1000mb_test",
+  "output_dir": "finetranslations_models/models/hun_1000mb_test",
+  "learning_rate": 0.0001,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "num_train_epochs": 10,
+  "batch_size": 8,
+  "gradient_accumulation_steps": 8
+}
