@@ -1,0 +1,38 @@
+[
+  {
+    "model_trained_on": "eng_fineweb_heldout",
+    "model_size": "5mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 111.19695541274463,
+    "loss": 4.711303002059867,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "eng_fineweb_heldout",
+    "model_size": "10mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 90.7951015881961,
+    "loss": 4.508605336885479,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "eng_fineweb_heldout",
+    "model_size": "100mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 29.05724032432554,
+    "loss": 3.3692676888813415,
+    "num_samples": 3426
+  },
+  {
+    "model_trained_on": "eng_fineweb_heldout",
+    "model_size": "1000mb",
+    "evaluated_on": "eng_fineweb",
+    "dataset_size_used": "10mb",
+    "perplexity": 15.236395928085752,
+    "loss": 2.7236870346324693,
+    "num_samples": 3426
+  }
+]

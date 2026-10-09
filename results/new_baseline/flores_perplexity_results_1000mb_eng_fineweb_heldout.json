@@ -1,0 +1,26 @@
+[
+  {
+    "language": "eng_fineweb_heldout",
+    "size": "1000mb",
+    "model_path": "finetranslations_models/models/eng_fineweb_heldout_1000mb_test",
+    "by_domain": {
+      "wikibooks": {
+        "perplexity": 12.69,
+        "loss": 2.5409,
+        "num_examples": 351
+      },
+      "wikivoyage": {
+        "perplexity": 15.62,
+        "loss": 2.7483,
+        "num_examples": 320
+      },
+      "wikinews": {
+        "perplexity": 11.75,
+        "loss": 2.4635,
+        "num_examples": 341
+      }
+    },
+    "weighted_average_perplexity": 13.3,
+    "total_examples": 1012
+  }
+]
